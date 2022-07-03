@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'imagecaptioningmlops'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_497DC6E036484A789513DB2A4911C2BA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64350B98238F45E5B2C3C15FB6CF0FEA }}
