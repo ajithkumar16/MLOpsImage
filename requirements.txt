@@ -1,7 +1,6 @@
 Flask
 Pillow
 numpy
-tensorflow-cpu
 keras
 Markup
 jinja2
